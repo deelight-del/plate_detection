@@ -1,0 +1,7 @@
+path: C:\Users\Dell 7490\PycharmProjects\random\code\data
+train: images\train
+val: images\train
+
+#classes
+names:
+  0: plate
